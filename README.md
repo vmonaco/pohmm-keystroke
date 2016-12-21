@@ -1,4 +1,4 @@
-## The Partially Observable Hidden Markov Model with Application to Keystroke Biometrics
+## The Partially Observable Hidden Markov Model and its Application to Keystroke Biometrics
 
 This repository contains code to reproduce experiments in this [article](http://arxiv.org/pdf/1607.03854.pdf).
 
